@@ -1,0 +1,31 @@
+// ================= Tailwind Container =================
+// sm
+.container {
+    padding-inline: 1rem !important;
+    margin-inline: auto !important;
+    max-width: 100% !important;
+}
+// md
+@media (min-width: 768px) {
+    .container {
+        padding-inline: 2rem !important;
+        margin-inline: auto !important;
+        max-width: 100% !important;
+    }
+}
+// lg
+@media (min-width: 1024px) {
+    .container {
+        padding-inline: 2rem !important;
+        margin-inline: auto !important;
+        max-width: 100% !important;
+    }
+}
+// xl
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1200px !important;
+        margin-inline: auto !important;
+        padding-inline: 2rem !important;
+    }
+}
