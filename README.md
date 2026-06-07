@@ -4,6 +4,10 @@ Milestone is a premium, state-of-the-art Project Management application built us
 
 ---
 
+**Live Demo**: [https://milestone-project-management-app.vercel.app](https://milestone-project-management-app.vercel.app)
+
+---
+
 ## ✨ Features
 
 - **💼 Workspace & Organization Hub**: Toggle, create, and customize separate workspaces with localized projects and independent teams.
