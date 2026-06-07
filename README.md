@@ -1,4 +1,4 @@
-# 🚀 Milestone - Project Management App
+# Milestone - Project Management App
 
 Milestone is a modern, full-stack project management platform designed to help teams plan, collaborate, and deliver projects efficiently. Built with the **PERN Stack (PostgreSQL, Express.js, React.js, and Node.js)**, the application provides a centralized workspace for managing projects, tracking task progress, coordinating team activities, and monitoring performance through real-time analytics.
 
