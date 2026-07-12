@@ -10,6 +10,14 @@ The platform streamlines the entire project lifecycle, from project planning and
 
 ---
 
+## 📸 Website Preview
+
+<a href="https://milestone-project-management-app.vercel.app" title="demo">
+  <img src="https://github.com/user-attachments/assets/b7b9482f-7c09-40a8-97bc-4b75b987dcaa" alt="website preview - Demo - UI Mockup" width="400">
+</a>
+
+---
+
 ## 🌟 Key Features
 
 ### 🏢 Workspace Management
